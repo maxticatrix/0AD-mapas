@@ -39,13 +39,14 @@
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
-  "CircularMap": true,
+  "CircularMap": false,
   "Description": "meseta con cauces y agua suavizado y exagerado. Basado en un mapa de alturas.",
   "GameType": "conquest",
   "Keywords": [],
   "LockTeams": true,
   "Name": "Numancia (2)",
   "PlayerData": [
+    null,
     {
       "AI": "petra",
       "Civ": "iber",
@@ -83,7 +84,7 @@
       "Team": 1
     }
   ],
-  "Preview": "",
+  "Preview": "numancia.png",
   "RevealMap": true
 }
 ]]></ScriptSettings>
