@@ -33,7 +33,7 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="565.835" y="428.492" z="-188.894"/>
+		<Position x="332.646" y="476.293" z="-255.668"/>
 		<Rotation angle="0"/>
 		<Declination angle="0.610865"/>
 	</Camera>
@@ -43,7 +43,7 @@
   "GameType": "conquest",
   "Keywords": [],
   "LockTeams": true,
-  "Name": "Cannae-borrador",
+  "Name": "Cannae",
   "PlayerData": [
     "",
     {
@@ -9368,48 +9368,6 @@
 			<Orientation y="1.46364"/>
 			<Obstruction group="4227" group2="4207"/>
 		</Entity>
-		<Entity uid="4514">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="244.13666" z="148.77799"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="45676"/>
-		</Entity>
-		<Entity uid="4515">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="239.77543" z="149.31861"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="25719"/>
-		</Entity>
-		<Entity uid="4516">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="238.18659" z="153.42032"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="15335"/>
-		</Entity>
-		<Entity uid="4517">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="236.31052" z="156.47666"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="33962"/>
-		</Entity>
-		<Entity uid="4518">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="234.51166" z="159.77726"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="36081"/>
-		</Entity>
-		<Entity uid="4519">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="233.0001" z="162.58356"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="41512"/>
-		</Entity>
 		<Entity uid="4520">
 			<Template>gaia/fauna_horse</Template>
 			<Player>2</Player>
@@ -9864,34 +9822,6 @@
 			<Position x="735.14356" z="628.44495"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="2349"/>
-		</Entity>
-		<Entity uid="4692">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="232.67051" z="783.25464"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="51414"/>
-		</Entity>
-		<Entity uid="4693">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="230.71406" z="787.62397"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="62703"/>
-		</Entity>
-		<Entity uid="4694">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="229.01328" z="792.2251"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="30386"/>
-		</Entity>
-		<Entity uid="4695">
-			<Template>other/bridge_wooden</Template>
-			<Player>0</Player>
-			<Position x="226.90073" z="796.06678"/>
-			<Orientation y="2.35621"/>
-			<Actor seed="465"/>
 		</Entity>
 		<Entity uid="4696">
 			<Template>structures/rome_house</Template>
